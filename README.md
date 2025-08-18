@@ -1,4 +1,4 @@
-![Moose Reader Logo](assets/logo.png)
+![Moose Reader Logo](assets/images/logo_small.png)
 # 🦌 Moose Reader
 
 *Your content, beautifully organized. A simple, powerful, and elegant RSS reader for your desktop.*
