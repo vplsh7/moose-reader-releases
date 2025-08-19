@@ -16,7 +16,8 @@ Moose Reader is a minimalist but feature-rich desktop RSS reader built with Flut
     * **Add, edit (title and URL), move, and delete** feeds with ease.
     * **Drag-and-drop** to manually reorder feeds within a folder.
     * **Create, rename, and delete** folders.
-    * **Fetch full articles** for feeds.
+    * **(Pro Feature) Fetch full articles** for feeds.
+    * **(Pro Feature) Save articles Offline** for viwewing later, even without internet.
 * **Smart & Automatic:**
     * **Favicon Support:** Automatically fetches and displays website icons for your feeds.
     * **Background Syncing:** Set an interval to have the app fetch new articles automatically.
