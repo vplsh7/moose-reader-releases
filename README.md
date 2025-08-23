@@ -58,7 +58,8 @@ Fine-tune your reading experience from the settings dialog.
 * [flutter_html](https://pub.dev/packages/flutter_html) - For rendering article content in the reading pane.
 * [window_manager](https://pub.dev/packages/window_manager) - For controlling the desktop window.
 * [package_info_plus](https://pub.dev/packages/package_info_plus) - For reading the app's version number.
-
+* [unix_fortunes](https://en.wikipedia.org/wiki/Fortune_(Unix)) - For displaying Moose Speak fortunes/ quotes.
+  
 ---
 ## 📄 License
 All rights are reserved by the author, V Shah. You may not copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software without explicit written permission from the author. You are, however, free to download and use the application provided in the Releases section.
