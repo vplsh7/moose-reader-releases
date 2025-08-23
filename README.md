@@ -30,6 +30,7 @@ Moose Reader is a minimalist but feature-rich desktop RSS reader built with Flut
 * **Productivity:**
     * **OPML Import:** Easily import your existing feed collection from another reader.
     * **Mark All as Read:** Quickly clear unread counts by folder, for all feeds, or per-feed by clicking the unread count bubble.
+    * **Display Helpful Message for Feed Errors:** Shows an error message to help you with any Feed fetching errors.
 
 ![Moose Reader Settings](assets/images/feed_settings.png)
 
