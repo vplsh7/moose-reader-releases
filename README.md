@@ -54,8 +54,8 @@ Fine-tune your reading experience from the settings dialog.
 
 Moose Reader is available as both Portable (.zip) and Windows Installer (.exe).
 
-* **Portable:** The portable zip includes VC_redist.x64.exe runtime, which is needed for the app to run. 
-* **Local Install:** The installer will automatically download the VC_redist.x64 from Microsoft servers during install. 
+* **Portable:** The portable zip includes the Visual C++ Redistributable (VC_redist.x64.exe) runtime, which is needed for the app to run. You can also directly download it for your system from Microsoft. [Link here](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+* **Local Install:** The installer will automatically download the Visual C++ Redistributable from Microsoft servers during install. 
 
 ## 🛠️ Built With
 
