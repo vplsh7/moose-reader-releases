@@ -50,6 +50,13 @@ Fine-tune your reading experience from the settings dialog.
 
 ![Moose Reader Settings](assets/images/settings.png)
 ---
+## ⚙️ Installation
+
+Moose Reader is available as both Portable (.zip) and Windows Installer (.exe).
+
+* **Portable:** The portable zip includes VC_redist.x64.exe runtime, which is needed for the app to run. 
+* **Local Install:** The installer will automatically download the VC_redist.x64 from Microsoft servers during install. 
+
 ## 🛠️ Built With
 
 * [Flutter](https://flutter.dev/) - The UI toolkit for building beautiful, natively compiled applications.
@@ -59,7 +66,7 @@ Fine-tune your reading experience from the settings dialog.
 * [window_manager](https://pub.dev/packages/window_manager) - For controlling the desktop window.
 * [package_info_plus](https://pub.dev/packages/package_info_plus) - For reading the app's version number.
 * [unix_fortunes](https://en.wikipedia.org/wiki/Fortune_(Unix)) - For displaying Moose Speak fortunes/ quotes.
-  
+
 ---
 ## 📄 License
 All rights are reserved by the author, V Shah. You may not copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software without explicit written permission from the author. You are, however, free to download and use the application provided in the Releases section.
